@@ -64,9 +64,9 @@ Please [make a statement of interest using this form](https://forms.office.com/r
 
 ## Sponsors
 
-Thanks to [Cloudflare](https://cloudflare.com) for sponsoring our venue.
+Thanks to [Cloudflare](https://cloudflare.com) for sponsoring our venue and [Akamai](https://akamai.com) for sponsoring welcome drinks.
 
-[![Cloudflare](asset/cloudflare.jpg)](https://cloudflare.com)
+[![Cloudflare](asset/cloudflare.jpg)](https://cloudflare.com) [![Akamai](asset/Akamai_main_logo.png)](https://akamai.com)
 
 *If you would like to sponsor a lunch, dinner, or social event, please contact [Mark Nottingham](mailto:mnot@mnot.net).*
 
